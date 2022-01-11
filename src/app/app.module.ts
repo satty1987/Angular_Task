@@ -9,7 +9,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
-import { HttpApiInterceptor } from './service/http.interceptor';
 import { UserFormComponent } from './components/user-form/user-form.component';
 import { UserGridComponent } from './components/user-grid/user-grid.component';
 
