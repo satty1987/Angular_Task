@@ -3,16 +3,38 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+
+import { HeaderComponent } from './components/header/header.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { HomeComponent } from './components/home/home.component';
+import { HttpApiInterceptor } from './service/http.interceptor';
+import { UserFormComponent } from './components/user-form/user-form.component';
+import { UserGridComponent } from './components/user-grid/user-grid.component';
+
+
+
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    HeaderComponent,
+    FooterComponent,
+    HomeComponent,
+    UserFormComponent,
+    UserGridComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
-  providers: [],
+  // providers: [
+  //   { provide: HTTP_INTERCEPTORS, useClass: HttpApiInterceptor, multi: true }
+  // ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

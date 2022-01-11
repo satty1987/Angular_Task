@@ -1,0 +1,1206 @@
+[
+    {
+        "category": "Culture",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T03:02:22.875Z",
+        "description": "Black and White - 1 Booklet\nColored - 2 Booklets",
+        "image": "/simranias-pdf/images/ART%20&%20CULTURE%20E%20Book.jpg",
+        "name": "Art and Culture",
+        "numReviews": 2,
+        "youTubeUrl": "",
+        "price": 800,
+        "rating": 4.5,
+        "reviews": [
+            {
+                "_id": "60350465f2c5d60017ee0c41",
+                "name": "satnam singh",
+                "rating": 5,
+                "comment": "nyc product",
+                "user": "5fee476049b23d80c839f005",
+                "createdAt": "2021-02-23T13:34:29.863Z",
+                "updatedAt": "2021-02-23T13:34:29.863Z"
+            },
+            {
+                "_id": "606ab87dd890750015955157",
+                "name": "harjas singh",
+                "rating": 4,
+                "comment": "Write a Customer Review\n",
+                "user": "5ff028febfa6e5769d2c64d6",
+                "createdAt": "2021-04-05T07:13:01.693Z",
+                "updatedAt": "2021-04-05T07:13:01.693Z"
+            }
+        ],
+        "sampleUrl": "/simranias-pdf/Sample%20art%20and%20culture%20.pdf",
+        "colorCopyPrice": 2200,
+        "blackCopyPrice": 1100,
+        "tableContent": [
+            {
+                "content": "Paintings"
+            },
+            {
+                "content": "Pre historic"
+            },
+            {
+                "content": "Bhimketka"
+            },
+            {
+                "content": "Upper Paleolithic Period Paintings"
+            },
+            {
+                "content": "Mesolithic Chalcolithic Period Painting"
+            },
+            {
+                "content": "Mural Paintings: Ajanta, Ellora, Bagh,Armamalai, Sittanavasal Jogimara cave, Leepakshi Temple,Badami Cave temples"
+            },
+            {
+                "content": "Miniature Paintings: Techniques, Early, Pala school of Art and Apabhramsa"
+            },
+            {
+                "content": "Mughal Era Miniature Painting : Babur, Humayun, Jahangir, Shahjahan, Akhbar"
+            },
+            {
+                "content": "Folk Paintings: Madhubani, Tikuli, Pattachitra, Patua, Paitkar, Kalamkari, Warli, Thangka etc"
+            },
+            {
+                "content": "Regional School of Paintings(SOP): Rajasthani, Mewar, Amber-Jaipur, Marwar, Difference in Rajput and mughal style, Pahari school of painting"
+            },
+            {
+                "content": "Modern India Painting: Company, Bazar, Raja Ravi, Bengal School, Progressive Artists"
+            },
+            {
+                "content": "Temple Architecture"
+            },
+            {
+                "content": "Charts"
+            },
+            {
+                "content": "Nagara School"
+            },
+            {
+                "content": "South India Temples"
+            },
+            {
+                "content": "Chola Art"
+            },
+            {
+                "content": "Famous Monuments"
+            },
+            {
+                "content": "Decorative Art"
+            },
+            {
+                "content": "Folk paintings"
+            },
+            {
+                "content": "Dance Forms"
+            },
+            {
+                "content": "Folk Dances"
+            }
+        ],
+        "updatedAt": "2021-04-05T07:13:01.694Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/ART%20&%20CULTURE%20E%20Book.jpg",
+            "/simranias-pdf/images/art&culture/1.jpg",
+            "/simranias-pdf/images/art&culture/2.jpg",
+            "/simranias-pdf/images/art&culture/3.jpg",
+            "/simranias-pdf/images/art&culture/5.jpg",
+            "/simranias-pdf/images/art&culture/6.jpg",
+            "/simranias-pdf/images/art&culture/7.jpg",
+            "/simranias-pdf/images/art&culture/8.jpg",
+            "/simranias-pdf/images/art&culture/9.jpg",
+            "/simranias-pdf/images/art&culture/10.jpg",
+            "/simranias-pdf/images/art&culture/11.jpg",
+            "/simranias-pdf/images/art&culture/12.jpg",
+            "/simranias-pdf/images/art&culture/13.jpg",
+            "/simranias-pdf/images/art&culture/14.jpg",
+            "/simranias-pdf/images/art&culture/15.jpg",
+            "/simranias-pdf/images/art&culture/16.jpg",
+            "/simranias-pdf/images/art&culture/17.jpg",
+            "/simranias-pdf/images/art&culture/18.jpg",
+            "/simranias-pdf/images/art&culture/19.jpg",
+            "/simranias-pdf/images/art&culture/20.jpg",
+            "/simranias-pdf/images/art&culture/21.jpg",
+            "/simranias-pdf/images/art&culture/22.jpg",
+            "/simranias-pdf/images/art&culture/23.jpg",
+            "/simranias-pdf/images/art&culture/24.jpg"
+        ],
+        "_id": "602dd8bead83c00017369954"
+    },
+    {
+        "category": "Subject",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T03:25:13.468Z",
+        "description": "Includes Indian & World Geography. Total no of pages are around 350. This includes all tips and tricks to learn world atlas.",
+        "image": "/simranias-pdf/images/GEO%20E%20Book.jpg",
+        "name": "Geography",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/znn2MBAe-Jw",
+        "price": 1600,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/LBM%20Sample%20Geo.pdf",
+        "colorCopyPrice": 4000,
+        "blackCopyPrice": 2400,
+        "tableContent": [
+            {
+                "content": "Tricks to remember World Atlas – Red Sea, Black Sea, Caspian Sea, Tropic of cancer and Capricorn, Equator etc."
+            },
+            {
+                "content": "World Atlas-1 – North, South & Central America, European countries, Europe and imp Water bodies etc"
+            },
+            {
+                "content": "World Atlas-2 – CPEC, Seas, Straits, Oceans, Ocean currents, Deserts, Winds etc"
+            },
+            {
+                "content": "Climatology"
+            },
+            {
+                "content": "Geomorphology+ Agriculture"
+            },
+            {
+                "content": "Soils"
+            },
+            {
+                "content": "Minerals"
+            },
+            {
+                "content": "Iron Ores"
+            },
+            {
+                "content": "National Parks"
+            },
+            {
+                "content": "Rivers of India"
+            },
+            {
+                "content": "Ocean currents"
+            }
+        ],
+        "updatedAt": "2021-02-18T03:25:13.468Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/GEO%20E%20Book.jpg",
+            "/simranias-pdf/images/geography/1.jpg",
+            "/simranias-pdf/images/geography/2.jpg",
+            "/simranias-pdf/images/geography/3.jpg",
+            "/simranias-pdf/images/geography/4.jpg",
+            "/simranias-pdf/images/geography/5.jpg",
+            "/simranias-pdf/images/geography/6.jpg",
+            "/simranias-pdf/images/geography/7.jpg",
+            "/simranias-pdf/images/geography/8.jpg",
+            "/simranias-pdf/images/geography/9.jpg",
+            "/simranias-pdf/images/geography/10.jpg",
+            "/simranias-pdf/images/geography/11.jpg",
+            "/simranias-pdf/images/geography/12.jpg",
+            "/simranias-pdf/images/geography/13.jpg",
+            "/simranias-pdf/images/geography/14.jpg",
+            "/simranias-pdf/images/geography/15.jpg",
+            "/simranias-pdf/images/geography/16.jpg"
+        ],
+        "_id": "602dde19ad83c00017369955"
+    },
+    {
+        "category": "Technology",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T06:44:28.904Z",
+        "description": "All major portions from NASA, ISRO, Satellites, submarines, missiles and missions are complied into this",
+        "image": "/simranias-pdf/images/sCIENEC%20&%20tECH%20E%20Book.jpg",
+        "name": "Science and Technology",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/4k7qkPvCoOU",
+        "price": 800,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/sample%20sci%20and%20tec.pdf",
+        "colorCopyPrice": 2200,
+        "blackCopyPrice": 1100,
+        "tableContent": [
+            {
+                "content": "ISRO "
+            },
+            {
+                "content": "Orbits- Geosynchronous and Geostationary"
+            },
+            {
+                "content": "Launch Vehicles- PSLV, GSLV, ION, Cryagenic"
+            },
+            {
+                "content": "Satellite system - INSAT Series, GSAT 30,31,7A, Indian Remote Sensing"
+            },
+            {
+                "content": "Space Exploration"
+            },
+            {
+                "content": "NASA"
+            },
+            {
+                "content": "TELESCOPE"
+            },
+            {
+                "content": "LIGO"
+            },
+            {
+                "content": "NEUTRINO"
+            },
+            {
+                "content": "CERN"
+            },
+            {
+                "content": "Defence"
+            },
+            {
+                "content": " Ballistic Missiles"
+            },
+            {
+                "content": "Cruise Missiles"
+            },
+            {
+                "content": "Hypersonic Missiles"
+            },
+            {
+                "content": "Aircraft Carrier"
+            },
+            {
+                "content": "Submarine"
+            },
+            {
+                "content": "Artillery"
+            },
+            {
+                "content": "Helicopter"
+            },
+            {
+                "content": "Aircraft"
+            },
+            {
+                "content": "Military Exercise"
+            },
+            {
+                "content": "Naval and Airforce"
+            },
+            {
+                "content": "Human Health Diseases"
+            },
+            {
+                "content": "Biotechnology"
+            },
+            {
+                "content": "Nanotechnology"
+            },
+            {
+                "content": "Nuclear Technology"
+            }
+        ],
+        "updatedAt": "2021-02-18T06:44:28.904Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/sCIENEC%20&%20tECH%20E%20Book.jpg",
+            "/simranias-pdf/images/science&technology/1.jpg",
+            "/simranias-pdf/images/science&technology/2.jpg",
+            "/simranias-pdf/images/science&technology/3.jpg",
+            "/simranias-pdf/images/science&technology/4.jpg",
+            "/simranias-pdf/images/science&technology/5.jpg",
+            "/simranias-pdf/images/science&technology/6.jpg",
+            "/simranias-pdf/images/science&technology/7.jpg",
+            "/simranias-pdf/images/science&technology/8.jpg",
+            "/simranias-pdf/images/science&technology/9.jpg",
+            "/simranias-pdf/images/science&technology/10.jpg",
+            "/simranias-pdf/images/science&technology/11.jpg",
+            "/simranias-pdf/images/science&technology/12.jpg",
+            "/simranias-pdf/images/science&technology/13.jpg",
+            "/simranias-pdf/images/science&technology/14.jpg",
+            "/simranias-pdf/images/science&technology/15.jpg",
+            "/simranias-pdf/images/science&technology/16.jpg"
+        ],
+        "_id": "602e0ccc4a930b00171c7056"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T07:11:40.006Z",
+        "description": "History includes Ancient , Medieval and Modern history. Total Pages are 340+.",
+        "image": "/simranias-pdf/images/HISTORYYY%20E%20Book.jpg",
+        "name": "History",
+        "numReviews": 1,
+        "youTubeUrl": "https://www.youtube.com/embed/W3qS4KVvv3U",
+        "price": 1600,
+        "rating": 5,
+        "reviews": [
+            {
+                "_id": "6030bd3454bf6e001567f808",
+                "name": "satnam singh",
+                "rating": 5,
+                "comment": "good content",
+                "user": "5fee476049b23d80c839f005",
+                "createdAt": "2021-02-20T07:41:40.577Z",
+                "updatedAt": "2021-02-20T07:41:40.577Z"
+            }
+        ],
+        "sampleUrl": "/simranias-pdf/Lbm%20complete%20History%20Sample.pdf",
+        "colorCopyPrice": 4000,
+        "blackCopyPrice": 2400,
+        "tableContent": [
+            {
+                "content": "Ancient History"
+            },
+            {
+                "content": "Pre History- Concept of Chornology"
+            },
+            {
+                "content": "Stone Age"
+            },
+            {
+                "content": "Palaeothic Sites"
+            },
+            {
+                "content": "Mesolithic Sites"
+            },
+            {
+                "content": "Neolithic Sites"
+            },
+            {
+                "content": "Harappan"
+            },
+            {
+                "content": "Vedic Period"
+            },
+            {
+                "content": " Mahajanapadas"
+            },
+            {
+                "content": "Magadha Empire"
+            },
+            {
+                "content": "Mauryan Empire"
+            },
+            {
+                "content": "Classification of Ashokan Inscriptions"
+            },
+            {
+                "content": "Kushana Empire"
+            },
+            {
+                "content": "Gupta Empire"
+            },
+            {
+                "content": "Buddhism"
+            },
+            {
+                "content": "Jainism"
+            },
+            {
+                "content": "South Indian Important Dynasty"
+            },
+            {
+                "content": " Medieval History"
+            },
+            {
+                "content": "Pushyabhuti/Vardhna Dynasty"
+            },
+            {
+                "content": "South Indian Kingdoms"
+            },
+            {
+                "content": "North/ North East Kingdoms"
+            },
+            {
+                "content": "The Rulers of Delhi"
+            },
+            {
+                "content": "Arab Invasion in India"
+            },
+            {
+                "content": "Delhi Sultanate"
+            },
+            {
+                "content": "Bhakti Sufi Movement"
+            },
+            {
+                "content": "Vijaynagar Empire"
+            },
+            {
+                "content": "Mughal Empire"
+            },
+            {
+                "content": "The Marathas"
+            },
+            {
+                "content": " The coming of Europeans"
+            },
+            {
+                "content": "Modern History"
+            },
+            {
+                "content": "AngloWars"
+            },
+            {
+                "content": "Battles – Plassey, Buxar"
+            },
+            {
+                "content": "The Marathas"
+            },
+            {
+                "content": "Mysore Kingdom"
+            },
+            {
+                "content": "Governor-General & Viceroy of India"
+            },
+            {
+                "content": "Important Acts"
+            },
+            {
+                "content": "Settlements"
+            },
+            {
+                "content": "British Policies"
+            },
+            {
+                "content": "Revolt of 1857"
+            },
+            {
+                "content": "Social & Religious Reforms"
+            },
+            {
+                "content": "The Indian National Movement"
+            },
+            {
+                "content": "Important Events – Home Rule League, Lucknow pact, Newspapers by Gandhiji, Gandhiji’s Idea, Rewaltt Act, Non cooperation Movement, Round Table Conference, Cripps Mission, Quit India movement"
+            }
+        ],
+        "updatedAt": "2021-02-20T07:41:40.578Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/HISTORYYY%20E%20Book.jpg",
+            "/simranias-pdf/images/history/1.jpg",
+            "/simranias-pdf/images/history/2.jpg",
+            "/simranias-pdf/images/history/3.jpg",
+            "/simranias-pdf/images/history/4.jpg",
+            "/simranias-pdf/images/history/5.jpg",
+            "/simranias-pdf/images/history/6.jpg",
+            "/simranias-pdf/images/history/7.jpg",
+            "/simranias-pdf/images/history/8.jpg",
+            "/simranias-pdf/images/history/9.jpg",
+            "/simranias-pdf/images/history/10.jpg",
+            "/simranias-pdf/images/history/11.jpg",
+            "/simranias-pdf/images/history/12.jpg",
+            "/simranias-pdf/images/history/13.jpg",
+            "/simranias-pdf/images/history/14.jpg",
+            "/simranias-pdf/images/history/15.jpg",
+            "/simranias-pdf/images/history/16.jpg",
+            "/simranias-pdf/images/history/17.jpg",
+            "/simranias-pdf/images/history/18.jpg",
+            "/simranias-pdf/images/history/19.jpg",
+            "/simranias-pdf/images/history/20.jpg",
+            "/simranias-pdf/images/history/21.jpg",
+            "/simranias-pdf/images/history/22.jpg",
+            "/simranias-pdf/images/history/23.jpg",
+            "/simranias-pdf/images/history/24.jpg",
+            "/simranias-pdf/images/history/25.jpg",
+            "/simranias-pdf/images/history/26.jpg",
+            "/simranias-pdf/images/history/27.jpg",
+            "/simranias-pdf/images/history/28.jpg",
+            "/simranias-pdf/images/history/29.jpg",
+            "/simranias-pdf/images/history/30.jpg",
+            "/simranias-pdf/images/history/31.jpg",
+            "/simranias-pdf/images/history/32.jpg",
+            "/simranias-pdf/images/history/33.jpg",
+            "/simranias-pdf/images/history/34.jpg",
+            "/simranias-pdf/images/history/35.jpg",
+            "/simranias-pdf/images/history/36.jpg",
+            "/simranias-pdf/images/history/37.jpg"
+        ],
+        "_id": "602e132c4a930b00171c7057"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T07:30:24.920Z",
+        "description": "Leanbymaps Polity is inclusive all major topics as per upsc cse exam. Total no of pages are 250+. ",
+        "image": "/simranias-pdf/images/INDIAN%20POLITY%20E%20Book.jpg",
+        "name": "Polity",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/znn2MBAe-Jw",
+        "price": 1600,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/lbm%20POLITY%20sample.pdf",
+        "colorCopyPrice": 4000,
+        "blackCopyPrice": 2400,
+        "tableContent": [
+            {
+                "content": " Making of constitution"
+            },
+            {
+                "content": "Union & its Territory"
+            },
+            {
+                "content": "Citizenship"
+            },
+            {
+                "content": "Fundamental Rights"
+            },
+            {
+                "content": "Preamble"
+            },
+            {
+                "content": "DPSP - Chart to remember Writs"
+            },
+            {
+                "content": "Fundamental Duties – Swaran Singh Imp Amb"
+            },
+            {
+                "content": "Parliamentary and Presidential Government"
+            },
+            {
+                "content": "Federal Government"
+            },
+            {
+                "content": "Emergency – Difference between 358-359"
+            },
+            {
+                "content": "President – (Executive, Leg, Fin) powers"
+            },
+            {
+                "content": "Parliament – Organs, Duration of RS LS, Qualifications"
+            },
+            {
+                "content": "Secularism model"
+            },
+            {
+                "content": "CBI Reforms"
+            },
+            {
+                "content": "Conflict between FR & DPSP"
+            },
+            {
+                "content": "Important Charts"
+            },
+            {
+                "content": "Panchayat"
+            },
+            {
+                "content": "Emergencies"
+            },
+            {
+                "content": "Constitutional Bodies"
+            },
+            {
+                "content": "Non constitutional Bodies"
+            },
+            {
+                "content": "Oath and Resignation"
+            },
+            {
+                "content": "NHRC/SHRC/CIC/CVC/SIC/CBI"
+            }
+        ],
+        "updatedAt": "2021-02-18T07:30:24.920Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/INDIAN%20POLITY%20E%20Book.jpg",
+            "/simranias-pdf/images/indianPolity/1.jpg",
+            "/simranias-pdf/images/indianPolity/2.jpg",
+            "/simranias-pdf/images/indianPolity/3.jpg",
+            "/simranias-pdf/images/indianPolity/4.jpg",
+            "/simranias-pdf/images/indianPolity/5.jpg",
+            "/simranias-pdf/images/indianPolity/6.jpg",
+            "/simranias-pdf/images/indianPolity/7.jpg",
+            "/simranias-pdf/images/indianPolity/8.jpg",
+            "/simranias-pdf/images/indianPolity/9.jpg",
+            "/simranias-pdf/images/indianPolity/10.jpg",
+            "/simranias-pdf/images/indianPolity/11.jpg",
+            "/simranias-pdf/images/indianPolity/12.jpg",
+            "/simranias-pdf/images/indianPolity/13.jpg",
+            "/simranias-pdf/images/indianPolity/14.jpg",
+            "/simranias-pdf/images/indianPolity/15.jpg",
+            "/simranias-pdf/images/indianPolity/16.jpg",
+            "/simranias-pdf/images/indianPolity/17.jpg",
+            "/simranias-pdf/images/indianPolity/18.jpg",
+            "/simranias-pdf/images/indianPolity/19.jpg",
+            "/simranias-pdf/images/indianPolity/20.jpg",
+            "/simranias-pdf/images/indianPolity/21.jpg"
+        ],
+        "_id": "602e17904a930b00171c7058"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T09:55:35.763Z",
+        "description": "Black and white - 1 Booklet\nColored : 2 Booklets",
+        "image": "/simranias-pdf/images/EVS%20E%20Book.jpg",
+        "name": "Environment",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/_ExRijUGye0",
+        "price": 800,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/Environment%20sample.pdf",
+        "colorCopyPrice": 2200,
+        "blackCopyPrice": 1100,
+        "tableContent": [
+            {
+                "content": "Ecology"
+            },
+            {
+                "content": "Climate"
+            },
+            {
+                "content": "Environmental Pollution"
+            },
+            {
+                "content": "Coral Reefs"
+            },
+            {
+                "content": " Coastal Regulation Zone (CRZ)"
+            },
+            {
+                "content": "Carbon Mitigation Strategies"
+            },
+            {
+                "content": " Wildlife Conservation"
+            },
+            {
+                "content": "Wetlands"
+            },
+            {
+                "content": "Ramsar Convention"
+            },
+            {
+                "content": "Important Convention/Protocol"
+            },
+            {
+                "content": "Rio Summit"
+            },
+            {
+                "content": "SDG/MDG"
+            },
+            {
+                "content": "Radioactuve Pollution"
+            },
+            {
+                "content": "Haathi Mere Sathi Campaign"
+            },
+            {
+                "content": "SAFAR"
+            },
+            {
+                "content": "North East Tiger Corridors"
+            },
+            {
+                "content": "Biofuels"
+            },
+            {
+                "content": "UN-REDD, REDD+"
+            }
+        ],
+        "updatedAt": "2021-02-18T09:55:35.763Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/environment/1.jpg",
+            "/simranias-pdf/images/environment/2.jpg",
+            "/simranias-pdf/images/environment/3.jpg",
+            "/simranias-pdf/images/environment/4.jpg",
+            "/simranias-pdf/images/environment/5.jpg",
+            "/simranias-pdf/images/environment/6.jpg",
+            "/simranias-pdf/images/environment/7.jpg",
+            "/simranias-pdf/images/environment/8.jpg",
+            "/simranias-pdf/images/environment/9.jpg",
+            "/simranias-pdf/images/environment/10.jpg",
+            "/simranias-pdf/images/environment/11.jpg",
+            "/simranias-pdf/images/environment/12.jpg",
+            "/simranias-pdf/images/environment/13.jpg",
+            "/simranias-pdf/images/environment/14.jpg",
+            "/simranias-pdf/images/environment/15.jpg"
+        ],
+        "_id": "602e39972f82b20017e99956"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T10:30:27.528Z",
+        "description": "This includes all the important international relations of India with other countries. Tricks to remember all important organisations. All major international crisis. ",
+        "image": "/simranias-pdf/images/International%20Relations%20E%20Book%202.jpg",
+        "name": "International Relations and Organisations",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/sHWGI34cN-A",
+        "price": 800,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/IR%20sample.pdf",
+        "colorCopyPrice": 0,
+        "blackCopyPrice": 1100,
+        "tableContent": [
+            {
+                "content": "Trick to remember SAARC, SCO, OPEC,RCEP"
+            },
+            {
+                "content": "WTO+ MFN+ADA+GATTS+TRIPS+TRIMS"
+            },
+            {
+                "content": "UN and its fact"
+            },
+            {
+                "content": "G2,G5,G7,G10,G7,G20,G5"
+            },
+            {
+                "content": "GCC Gulf Cooperation Council"
+            },
+            {
+                "content": "WHO BRICS"
+            },
+            {
+                "content": "INDIA RELATION WITH"
+            },
+            {
+                "content": "Nepal"
+            },
+            {
+                "content": "Africa"
+            },
+            {
+                "content": "Pakistan"
+            },
+            {
+                "content": "Bangladesh"
+            },
+            {
+                "content": "Srilanka"
+            },
+            {
+                "content": "China"
+            },
+            {
+                "content": "Isreal"
+            },
+            {
+                "content": "USA"
+            },
+            {
+                "content": "Japan"
+            },
+            {
+                "content": "Russia"
+            },
+            {
+                "content": "France"
+            },
+            {
+                "content": "Myanmar"
+            },
+            {
+                "content": "UNESC"
+            },
+            {
+                "content": "WIPO"
+            },
+            {
+                "content": "IMF"
+            },
+            {
+                "content": "QUAD"
+            },
+            {
+                "content": "Amnesty International"
+            },
+            {
+                "content": "INSTC"
+            },
+            {
+                "content": "IAEA"
+            },
+            {
+                "content": "Yemen Crisis"
+            },
+            {
+                "content": "Hong Kong Crisis"
+            },
+            {
+                "content": "Syrian Crisis"
+            },
+            {
+                "content": "US & Iran Relations"
+            },
+            {
+                "content": "CTBT"
+            },
+            {
+                "content": "International Organisations and its Headquatars"
+            }
+        ],
+        "updatedAt": "2021-02-18T10:30:27.528Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/International%20Relations%20E%20Book%202.jpg",
+            "/simranias-pdf/images/ir/1.jpg",
+            "/simranias-pdf/images/ir/2.jpg",
+            "/simranias-pdf/images/ir/3.jpg",
+            "/simranias-pdf/images/ir/4.jpg",
+            "/simranias-pdf/images/ir/5.jpg",
+            "/simranias-pdf/images/ir/6.jpg",
+            "/simranias-pdf/images/ir/7.jpg",
+            "/simranias-pdf/images/ir/8.jpg",
+            "/simranias-pdf/images/ir/9.jpg",
+            "/simranias-pdf/images/ir/10.jpg",
+            "/simranias-pdf/images/ir/11.jpg",
+            "/simranias-pdf/images/ir/12.jpg",
+            "/simranias-pdf/images/ir/13.jpg",
+            "/simranias-pdf/images/ir/14.jpg",
+            "/simranias-pdf/images/ir/15.jpg"
+        ],
+        "_id": "602e41c32f82b20017e99957"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T11:42:20.024Z",
+        "description": "In LBM General Science we compiled Biology, Chemistry and Physics.",
+        "image": "/simranias-pdf/images/GEn%20Science%20E%20Book.jpg",
+        "name": "General Science",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/B8TSqCjGD60",
+        "price": 800,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/sample%20General%20science.pdf",
+        "colorCopyPrice": 2200,
+        "blackCopyPrice": 1100,
+        "tableContent": [
+            {
+                "content": "Biology"
+            },
+            {
+                "content": "Components of Cell"
+            },
+            {
+                "content": "Genetics- DNA RNA"
+            },
+            {
+                "content": "Genetic Disorders"
+            },
+            {
+                "content": "Mendel's law"
+            },
+            {
+                "content": "Proteins, Carbohydrates and Vitamins"
+            },
+            {
+                "content": "Plant kingdom- Plant Morphology, Physiology, Photosynthesis and respiration"
+            },
+            {
+                "content": " Vegetation Propagation"
+            },
+            {
+                "content": "Animal Kingdom - Breeding"
+            },
+            {
+                "content": "Apiculture"
+            },
+            {
+                "content": "Human Digestive System, Respiratory System, Circulatory System, Excetory system"
+            },
+            {
+                "content": "Locomotion- Movement, Muscle, skeletal system, joints"
+            },
+            {
+                "content": "Nervous System, Endocrine System"
+            },
+            {
+                "content": "Reproductive System"
+            },
+            {
+                "content": " Brain, Ear, Eye"
+            },
+            {
+                "content": "Cloning"
+            },
+            {
+                "content": "DNA fingerprinting"
+            },
+            {
+                "content": "Diseases- Viral, Bacterial and Protozoan"
+            },
+            {
+                "content": "Physics"
+            },
+            {
+                "content": "Units, Motions, important SI units"
+            },
+            {
+                "content": "Force, newton laws, Work, power and energy"
+            },
+            {
+                "content": "Thermodynamics"
+            },
+            {
+                "content": "Coulomb's Law"
+            },
+            {
+                "content": "Electric field, flux and current"
+            },
+            {
+                "content": "Gauss law"
+            },
+            {
+                "content": "Ohm's law"
+            },
+            {
+                "content": "Kirchoff's law"
+            },
+            {
+                "content": "Optics, Laws of Reflection, Refraction"
+            },
+            {
+                "content": "Mirror and its use"
+            },
+            {
+                "content": "Defects of vision"
+            },
+            {
+                "content": "Microscope Telescope and Radioactivity"
+            },
+            {
+                "content": "Chemistry"
+            },
+            {
+                "content": "Particles"
+            },
+            {
+                "content": "Atomic, Mass number + imp terms"
+            },
+            {
+                "content": "Molarity, morality and normality"
+            },
+            {
+                "content": "Temperature/ph value and scale"
+            },
+            {
+                "content": "Chemical Bonds"
+            },
+            {
+                "content": "Ideal Gas equation"
+            },
+            {
+                "content": "Magnetic properties"
+            },
+            {
+                "content": "Osomosis, osmotic pressure"
+            },
+            {
+                "content": "Hard water and Soft water"
+            },
+            {
+                "content": "Batteries, Fuel cells and corrosion"
+            },
+            {
+                "content": "Types of Reaction"
+            },
+            {
+                "content": "Metals and non metals"
+            },
+            {
+                "content": "Litmus papers"
+            },
+            {
+                "content": "Polymers"
+            },
+            {
+                "content": "Natural Acids"
+            },
+            {
+                "content": "s,d,p,f Block elements"
+            }
+        ],
+        "updatedAt": "2021-02-18T11:42:20.024Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/GEn%20Science%20E%20Book.jpg",
+            "/simranias-pdf/images/generalScience/1.jpg",
+            "/simranias-pdf/images/generalScience/2.jpg",
+            "/simranias-pdf/images/generalScience/3.jpg",
+            "/simranias-pdf/images/generalScience/4.jpg",
+            "/simranias-pdf/images/generalScience/5.jpg",
+            "/simranias-pdf/images/generalScience/6.jpg",
+            "/simranias-pdf/images/generalScience/7.jpg",
+            "/simranias-pdf/images/generalScience/8.jpg",
+            "/simranias-pdf/images/generalScience/9.jpg",
+            "/simranias-pdf/images/generalScience/10.jpg",
+            "/simranias-pdf/images/generalScience/11.jpg",
+            "/simranias-pdf/images/generalScience/12.jpg",
+            "/simranias-pdf/images/generalScience/13.jpg",
+            "/simranias-pdf/images/generalScience/14.jpg",
+            "/simranias-pdf/images/generalScience/15.jpg",
+            "/simranias-pdf/images/generalScience/16.jpg",
+            "/simranias-pdf/images/generalScience/17.jpg",
+            "/simranias-pdf/images/generalScience/18.jpg",
+            "/simranias-pdf/images/generalScience/19.jpg",
+            "/simranias-pdf/images/generalScience/20.jpg",
+            "/simranias-pdf/images/generalScience/21.jpg",
+            "/simranias-pdf/images/generalScience/22.jpg"
+        ],
+        "_id": "602e529c85e4e90017632243"
+    },
+    {
+        "category": "learnbymaps",
+        "countInStock": 0,
+        "createdAt": "2021-02-18T12:05:09.886Z",
+        "description": "Black & White Hardcopy- 1 Booklet\nColored – 2 Booklet",
+        "image": "/simranias-pdf/images/ECONOMY%20E%20Book.jpg",
+        "name": "Economics",
+        "numReviews": 0,
+        "youTubeUrl": "https://www.youtube.com/embed/7ukfRISq188",
+        "price": 1600,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/Sample%20Lbm%20Eco.pdf",
+        "colorCopyPrice": 4000,
+        "blackCopyPrice": 2400,
+        "tableContent": [
+            {
+                "content": "National Income"
+            },
+            {
+                "content": "GDP, GNP, NDP, NNP"
+            },
+            {
+                "content": "Circular flow of money"
+            },
+            {
+                "content": "Inflation"
+            },
+            {
+                "content": "Poverty"
+            },
+            {
+                "content": "Unemployment"
+            },
+            {
+                "content": "Curves"
+            },
+            {
+                "content": "Money and Banking"
+            },
+            {
+                "content": "Government Budget"
+            },
+            {
+                "content": "Financial Markets"
+            },
+            {
+                "content": "External Sector"
+            },
+            {
+                "content": "Foreign Exchange market"
+            },
+            {
+                "content": "SEZ"
+            },
+            {
+                "content": "WTO"
+            },
+            {
+                "content": "Industries"
+            },
+            {
+                "content": "Food security"
+            },
+            {
+                "content": "All important schemes"
+            },
+            {
+                "content": "Budget"
+            }
+        ],
+        "updatedAt": "2021-02-18T12:05:09.886Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/ECONOMY%20E%20Book.jpg",
+            "/simranias-pdf/images/economy/1.jpg",
+            "/simranias-pdf/images/economy/2.jpg",
+            "/simranias-pdf/images/economy/3.jpg",
+            "/simranias-pdf/images/economy/4.jpg",
+            "/simranias-pdf/images/economy/5.jpg",
+            "/simranias-pdf/images/economy/6.jpg",
+            "/simranias-pdf/images/economy/7.jpg",
+            "/simranias-pdf/images/economy/8.jpg",
+            "/simranias-pdf/images/economy/9.jpg",
+            "/simranias-pdf/images/economy/10.jpg",
+            "/simranias-pdf/images/economy/11.jpg",
+            "/simranias-pdf/images/economy/12.jpg",
+            "/simranias-pdf/images/economy/13.jpg",
+            "/simranias-pdf/images/economy/14.jpg",
+            "/simranias-pdf/images/economy/15.jpg",
+            "/simranias-pdf/images/economy/16.jpg",
+            "/simranias-pdf/images/economy/17.jpg"
+        ],
+        "_id": "602e57f585e4e90017632244"
+    },
+    {
+        "category": "All Subjects",
+        "countInStock": 0,
+        "createdAt": "2021-04-14T03:02:04.690Z",
+        "description": "Great Deals on All Learnbymaps. 1 year pre current affairs Complimentary and Previous year question paper Analysis in PDF format.",
+        "image": "/simranias-pdf/images/all-learnbymaps.jpg",
+        "name": "All Learnbymaps",
+        "numReviews": 0,
+        "youTubeUrl": null,
+        "price": 8200,
+        "rating": 0,
+        "reviews": [],
+        "sampleUrl": "/simranias-pdf/all-learnbymaps-sample.pdf",
+        "colorCopyPrice": 16500,
+        "blackCopyPrice": 10500,
+        "tableContent": [
+            {
+                "content": "History"
+            },
+            {
+                "content": "Geography"
+            },
+            {
+                "content": "Polity"
+            },
+            {
+                "content": "Economy"
+            },
+            {
+                "content": "International Relations"
+            },
+            {
+                "content": "Art and culture"
+            },
+            {
+                "content": "Environment"
+            },
+            {
+                "content": "Science and technology"
+            },
+            {
+                "content": "General Science"
+            }
+        ],
+        "updatedAt": "2021-04-14T03:02:04.690Z",
+        "user": "5fee476049b23d80c839f005",
+        "imageSlider": [
+            "/simranias-pdf/images/all-learnbymaps.jpg",
+            "/simranias-pdf/images/art&culture/1.jpg",
+            "/simranias-pdf/images/economy/1.jpg",
+            "/simranias-pdf/images/generalScience/1.jpg",
+            "/simranias-pdf/images/environment/1.jpg",
+            "/simranias-pdf/images/geography/1.jpg",
+            "/simranias-pdf/images/history/1.jpg",
+            "/simranias-pdf/images/science&technology/1.jpg",
+            "/simranias-pdf/images/ir/1.jpg",
+            "/simranias-pdf/images/art&culture/2.jpg",
+            "/simranias-pdf/images/economy/3.jpg",
+            "/simranias-pdf/images/generalScience/8.jpg",
+            "/simranias-pdf/images/environment/6.jpg",
+            "/simranias-pdf/images/geography/7.jpg",
+            "/simranias-pdf/images/history/4.jpg",
+            "/simranias-pdf/images/science&technology/8.jpg",
+            "/simranias-pdf/images/ir/11.jpg"
+        ],
+        "_id": "60765b2c1309dc001537e2b3"
+    }
+]

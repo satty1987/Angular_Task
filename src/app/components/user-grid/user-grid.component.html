@@ -1,0 +1,26 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+                <i class="fas fa-sort" (click)="sortOn('username')"></i>
+                <div class="form-group">
+                  <input type="text" class="form-control" name="" id="" (keyup)="filterColum($event, 'username')" placeholder="">
+                </div>
+            </th>
+            <th>
+                Email
+                <i class="fas fa-sort" (click)="sortOn('email')"></i>
+                <div class="form-group">
+                    <input type="text" class="form-control" name="" id="" (keyup)="filterColum($event, 'email')" aria-describedby="helpId" placeholder="">
+                  </div>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of userList">
+            <td>{{item.username}}</td>
+            <td>{{item.email}}</td>
+        </tr>
+    </tbody>
+</table>
