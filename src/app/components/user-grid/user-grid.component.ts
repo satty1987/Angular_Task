@@ -12,7 +12,7 @@ import { BehaviorSubject, combineLatest, concat } from 'rxjs';
 export class UserGridComponent implements OnInit {
 
   public userList: Array<{}> = [];
-  public MasterList: Array<{}> = [];
+  public masterList: Array<{}> = [];
   constructor(public appService: AppService) { }
 
   ngOnInit(): void {
@@ -21,7 +21,7 @@ export class UserGridComponent implements OnInit {
       subscribe((res) => {
         if (res) {
           this.userList = res;
-          this.MasterList = [...res];
+          this.masterList = [...res];
         }
       })
 
@@ -45,7 +45,7 @@ export class UserGridComponent implements OnInit {
   }
 
   filterColum(event, fieldname){
-    this.userList = this.appService.filterColum(this.MasterList,event.target.value.toLowerCase(), fieldname)
+    this.userList = this.appService.filterColumn(this.masterList,event.target.value.toLowerCase(), fieldname)
   }
 
 }

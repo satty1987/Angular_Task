@@ -38,7 +38,7 @@ export class AppService {
     return sortedArray;
   }
 
-  filterColum(list, value, fieldname) {
+  filterColumn(list, value, fieldname) {
     const filterData = list.filter((item) => item[fieldname].toLowerCase().includes(value));
     return filterData;
   }
