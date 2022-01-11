@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
     "build": "ng build --prod --output-hashing none",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "comp": "ng g c components/cart"
+    "start": "node server.js",
+    "predeploy": "ng build --prod"
   },
   "private": true,
   "dependencies": {
