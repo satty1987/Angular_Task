@@ -1,16 +1,17 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import { USER_INFO } from '../constant/app.constant';
+import { IUser } from '../interface/user.interface';
 
 @Injectable({ providedIn: 'root' })
 export class AppService {
 
-  public updateGrid$ = new BehaviorSubject(USER_INFO);
+  public updateGrid$ = new BehaviorSubject<IUser[]>(USER_INFO);
   public sortedColumn$ = new BehaviorSubject<string>('');
   public userList = USER_INFO;
   constructor() { }
 
-  addUsers(userInfo) {
+  public addUsers(userInfo: IUser) {
     if (this.checkForDuplicateValues(userInfo)) {
       return;
     }
@@ -18,14 +19,14 @@ export class AppService {
     this.updateGrid$.next(this.userList)
   }
 
-  checkForDuplicateValues(userInfo) {
+  public checkForDuplicateValues(userInfo: IUser) {
     const checkDuplicatValues = this.userList.find((item: any) => {
       return item.email === userInfo.email;
     })
     return checkDuplicatValues;
   }
 
-  sortByColumn(list: any[] | undefined, column: string, direction = 'desc'): any[] {
+  public sortByColumn(list: IUser[] | undefined, column: string, direction = 'desc'): any[] {
     let sortedArray = (list || []).sort((a, b) => {
       if (a[column] > b[column]) {
         return (direction === 'desc') ? 1 : -1;
@@ -38,7 +39,7 @@ export class AppService {
     return sortedArray;
   }
 
-  filterColumn(list, value, fieldname) {
+  public filterColumn(list: IUser[], value: string, fieldname: string) {
     const filterData = list.filter((item) => item[fieldname].toLowerCase().includes(value));
     return filterData;
   }
